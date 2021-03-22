@@ -9,7 +9,7 @@ My Personal Page: http://danewilliamson.me
 
 ### 💼  Things that I'm currently working on: 
 * Pursuing PhD in Computer Science at [UVA](https://engineering.virginia.edu/)
-* [Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/) with [UVA Cavalier Autonomous Racing](https://www.indyautonomouschallenge.com/cavalier-autonomous-racing)
+* [Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/) with [UVA Cavalier Autonomous Racing](https://autonomousracing.dev/)
 * Researching Inductive Bias of Transformer models such as [BERT](https://arxiv.org/abs/1810.04805) and [GPT](https://huggingface.co/transformers/model_doc/gpt.html)
 
 
