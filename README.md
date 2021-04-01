@@ -3,7 +3,7 @@
 
 a PhD student at the University of Virginia. 
 
-My research interests include Formal Verication of Cyber-Physical Systems, Computer Vision, Natural Language Processing and Autonomous Vehicles. 
+My research interests include Formal Verification of Cyber-Physical Systems, Computer Vision, Natural Language Processing and Autonomous Vehicles. 
 
 My Personal Page: http://danewilliamson.me
 
