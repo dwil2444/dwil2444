@@ -1,16 +1,13 @@
 ## Hi all
-### I am Dane Williamson,
+### I am a PhD student at the University of Virginia. 
 
-a PhD student at the University of Virginia. 
-
-My research interests include Formal Verification of Cyber-Physical Systems, Computer Vision, Natural Language Processing and Autonomous Vehicles. 
+My research interests include Formal Verification of Cyber-Physical Systems, Computer Vision and Natural Language Processing.
 
 My Personal Page: http://danewilliamson.com
 
 ### 💼  Things that I'm currently working on: 
 * Pursuing PhD in Computer Science at [UVA](https://engineering.virginia.edu/)
-* [Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/) with [Cavalier Autonomous Racing](https://autonomousracing.dev/)
-* Researching Inductive Bias of Transformer models such as [BERT](https://arxiv.org/abs/1810.04805) and [GPT](https://huggingface.co/transformers/model_doc/gpt.html)
+
 
 
 **Languages and Frameworks:**
