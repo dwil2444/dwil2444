@@ -3,7 +3,7 @@
 
 My research interests include Formal Verification of Cyber-Physical Systems, Computer Vision and Natural Language Processing.
 
-My Personal Page: http://danewilliamson.com
+My Personal Page: https://www.cs.virginia.edu/~dw3zn/
 
 ### 💼  Things that I'm currently working on: 
 * Pursuing PhD in Computer Science at [UVA](https://engineering.virginia.edu/)
