@@ -3,7 +3,7 @@
 
 My research interests include Formal Verification of Cyber-Physical Systems, Computer Vision and Natural Language Processing.
 
-My Personal Page: https://www.dwil2444.gtihub.io
+My Personal Page: https://www.dwil2444.github.io
 
 ### 💼  Things that I'm currently working on: 
 * Pursuing PhD in Computer Science at [UVA](https://engineering.virginia.edu/)
