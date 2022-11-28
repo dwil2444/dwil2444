@@ -1,7 +1,9 @@
 ## Hi all
 ### I am a PhD student at the University of Virginia. 
 
-My research interests include Formal Verification of Cyber-Physical Systems, Computer Vision and Natural Language Processing.
+My research interests include Formal Verification of Cyber-Physical Systems, Computer Vision and Natural Language Processing.  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwil2444&label=Profile%20views&color=0e75b6&style=flat" alt="dwil2444" /> </p
 
 My Personal Page: https://dwil2444.github.io/
 
